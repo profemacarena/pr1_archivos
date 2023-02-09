@@ -1,0 +1,13 @@
+TEST CON PREGUNTAS (V/F) SOBRE GIT
+Instrucciones: Responder en el espacio entre los corchetes "[ ]" junto a cada pregunta, indicando si es verdadera (V) o falsa (F).
+
+PRIMERA PARTE
+6. En Git es posible descargarse un repositorio [V]
+7. Git es un apodo de GitHub [F]
+8. El historial de confirmación de Git se elimina automáticamente cada semana [F]
+
+
+SEGUNDA PARTE
+9. En Git una rama es una versión separada del repositorio principal [v]
+10. Pull es una combinación de push y merge [v]
+11. Git es lo mismo que GitHub [f]

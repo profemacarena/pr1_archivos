@@ -1,0 +1,24 @@
+TEST CON PREGUNTAS (V/F) SOBRE GIT
+Instrucciones: Responder en el espacio entre los corchetes "[ ]" junto a cada pregunta, indicando si es verdadera (V) o falsa (F).
+
+1. El archivo .gitignore sireve para ignorar a git y hacer que no haga commits []
+2. El comando git checkout sive para cambiar de rama en git[]
+3. GitHub es un repositorio remoto para subir contenido []
+4. La rama master es la rama que guarda los ficheros []
+5. Git se usa principalmente para poder descargar código []
+
+
+TEST CON PREGUNTAS (V/F) SOBRE GIT
+Instrucciones: Responder en el espacio entre los corchetes "[ ]" junto a cada pregunta, indicando si es verdadera (V) o falsa (F).
+
+PRIMERA PARTE
+6. En Git es posible descargarse un repositorio []
+7. Git es un apodo de GitHub []
+8. El historial de confirmación de Git se elimina automáticamente cada semana []
+
+
+SEGUNDA PARTE
+9. En Git una rama es una versión separada del repositorio principal []
+10. Pull es una combinación de push y merge []
+11. Git es lo mismo que GitHub []
+
