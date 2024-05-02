@@ -1,1 +1,8 @@
+TEST CON PREGUNTAS (V/F) SOBRE GIT
+Instrucciones: Responder en el espacio entre los corchetes "[ ]" junto a cada pregunta, indicando si es verdadera (V) o falsa (F).
 
+1. El archivo .gitignore sireve para ignorar a git y hacer que no haga commits []
+2. El comando git checkout sive para cambiar de rama en git[]
+3. GitHub es un repositorio remoto para subir contenido []
+4. La rama master es la rama que guarda los ficheros []
+5. Git se usa principalmente para poder descargar código []
